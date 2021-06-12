@@ -126,7 +126,7 @@
 		"lerna": "^3.22.1",
 		"lint-staged": "^10.3.0",
 		"lodash": "^4.17.20",
-		"marked": "^1.2.2",
+		"marked": "^2.0.0",
 		"micromustache": "^8.0.3",
 		"mime-types": "^2.1.27",
 		"mitt": "^2.1.0",
